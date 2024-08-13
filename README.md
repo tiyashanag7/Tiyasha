@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and Deep Learning**
   
-- 📚 3rd year student at [NETAJI SUBHASH ENGINEERING COLLEGE]
+- 📚 3rd year student at NETAJI SUBHASH ENGINEERING COLLEGE
   
 - 📫 How to reach me **tiyasha1630@gmail.com**
   
